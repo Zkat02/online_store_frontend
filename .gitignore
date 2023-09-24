@@ -1,0 +1,28 @@
+# Игнорировать временные файлы и директории
+node_modules/
+build/
+.DS_Store
+
+# Игнорировать файлы окружения (если используете .env)
+.env
+.env.local
+.env.development
+.env.test
+.env.production
+
+# Игнорировать логи и файлы отладки
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Игнорировать файлы настройки редактора
+.vscode/
+.idea/
+
+# Игнорировать файлы сборки (пример для Webpack)
+/dist/
+
+# Игнорировать файлы конфигурации (пример для ESLint)
+.eslintcache
+
+installations
