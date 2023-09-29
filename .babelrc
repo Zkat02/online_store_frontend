@@ -1,22 +1,5 @@
 // .babelrc
-// setting for babel plugins
-
 {
     "presets": ["@babel/preset-env", "@babel/preset-react"],
     "plugins": ["@babel/plugin-proposal-class-properties"]
 }
-
-// babel.config.js using in new versions of JS
-
-// module.exports = function(api) {
-//     api.cache(true);
-  
-//     const presets = ["@babel/preset-env"];
-//     const plugins = ["@babel/plugin-transform-arrow-functions"];
-  
-//     return {
-//       presets,
-//       plugins
-//     };
-//   };
-

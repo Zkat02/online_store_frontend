@@ -1,6 +1,6 @@
 /* Footer.module.css */
 .footer {
-  background-color:  #1f1f1f;
+  background-color: #1f1f1f;
   color: #ff5656;
   width: 100%;
   padding: 20px 0;
@@ -39,5 +39,5 @@
 }
 
 .footerLinks a:hover {
-  color: #923232; /* Цвет при наведении */
+  color: #923232;
 }

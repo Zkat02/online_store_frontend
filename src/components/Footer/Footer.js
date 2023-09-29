@@ -7,7 +7,7 @@ const Footer = () => {
       <div className={styles.footerContent}>
         <p>&copy; {new Date().getFullYear()} Online Store</p>
         <ul className={styles.footerLinks}>
-          <li><a href="#">main</a></li>
+          <li><a href="/">main</a></li>
           <li><a href="#">about us</a></li>
           <li><a href="#">contact us</a></li>
         </ul>
