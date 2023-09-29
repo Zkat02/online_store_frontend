@@ -1,0 +1,27 @@
+[
+    {
+      "id": 1,
+      "name": "Electronics"
+    },
+    {
+      "id": 2,
+      "name": "Clothing"
+    },
+    {
+      "id": 3,
+      "name": "Home and garden"
+    },
+    {
+      "id": 4,
+      "name": "Sport"
+    },
+    {
+        "id": 5,
+        "name": "Books"
+    },
+    {
+        "id": 6,
+        "name": "Дети"
+    }
+  ]
+  
