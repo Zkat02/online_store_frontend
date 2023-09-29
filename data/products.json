@@ -1,0 +1,82 @@
+[
+  {
+    "name": "Smartphone",
+    "description": "Latest model",
+    "price": 599.99,
+    "categoryName": "Electronics",
+    "sellerName": "seller1",
+    "quantity": 10
+  },
+  {
+    "name": "Laptop",
+    "description": "High-performance",
+    "price": 999.99,
+    "categoryName": "Electronics",
+    "sellerName": "seller2",
+    "quantity": 7
+  },
+  {
+    "name": "T-shirt",
+    "description": "Cotton material",
+    "price": 19.99,
+    "categoryName": "Clothing",
+    "sellerName": "seller1",
+    "quantity": 4
+  },
+  {
+    "name": "Jeans",
+    "description": "Slim-fit",
+    "price": 49.99,
+    "categoryName": "Clothing",
+    "sellerName": "seller2",
+    "quantity": 23
+  },
+  {
+    "name": "Python Programming",
+    "description": "Learn Python",
+    "price": 29.99,
+    "categoryName": "Books",
+    "sellerName": "seller1",
+    "quantity": 50
+  },
+  {
+    "name": "Data Science Handbook",
+    "description": "Advanced concepts",
+    "price": 39.99,
+    "categoryName": "Books",
+    "sellerName": "seller2",
+    "quantity": 31
+  },
+  {
+    "name": "Headphones",
+    "description": "Noise-cancelling",
+    "price": 149.99,
+    "categoryName": "Electronics",
+    "sellerName": "seller1",
+    "quantity": 14
+  },
+  {
+    "name": "Dress",
+    "description": "Elegant design",
+    "price": 79.99,
+    "categoryName": "Clothing",
+    "sellerName": "seller2",
+    "quantity": 12
+  },
+  {
+    "name": "JavaScript Basics",
+    "description": "Introduction to JS",
+    "price": 19.99,
+    "categoryName": "Books",
+    "sellerName": "seller1",
+    "quantity": 2
+  },
+  {
+    "name": "Gardening Guide",
+    "description": "Grow your own plants",
+    "price": 9.99,
+    "categoryName": "Books",
+    "sellerName": "seller2",
+    "quantity": 13
+  }
+]
